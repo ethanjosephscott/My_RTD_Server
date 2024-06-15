@@ -24,6 +24,10 @@ This is Page 2 !!
 
 .. note::
 	Tacos are delicious
+
+.. note:: 
+	test note2
+
 .. tabs:: lang
 
 	.. code-tab:: python
