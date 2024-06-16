@@ -27,6 +27,8 @@ This is Page 2 !!
 
 .. note:: 
 	test note2
+.. note::
+	test git sync
 
 .. tabs:: lang
 
