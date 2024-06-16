@@ -27,5 +27,6 @@ This is our test of the second header
 
 .. note::
 	first cron scheduled automated sync
-
+.. note::
+	final test on automatic.
 
