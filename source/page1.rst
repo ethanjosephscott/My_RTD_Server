@@ -25,4 +25,7 @@ This is our test of the second header
 
 	This is an example image of the enclave logo with a caption
 
+.. note::
+	first cron scheduled automated sync
+
 
