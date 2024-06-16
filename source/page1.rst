@@ -15,7 +15,7 @@ This is our test of the second header
 
 * This is our new image that we uploaded
 
-. note:: 
+.. note:: 
 	source sink test post hookey style
 
 .. figure:: /image/enclave1.jpg
