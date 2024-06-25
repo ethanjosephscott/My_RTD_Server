@@ -34,6 +34,8 @@ This is Page 2 !!
 
 .. note::
 	whore
+.. note::
+	jeff is cool
 
 
 .. tabs:: lang
