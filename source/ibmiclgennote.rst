@@ -1,14 +1,14 @@
-IBM I Big CL Generation with Notepad++ !!
+IBM I Big CL Generation with Notepad++
 =========================================
 
  
-.. note::
-	This is an example of a note adominition in our *Sphinx Documentation*
+This is a quick brief on how to use notepad++ to take output from a standard SQL tool like Dbeaver or IBM ACS and create repetive CL programs over 100s or 1000s of files.
 
 
 .. warning::
 
-	This is a warning adomnition
+	This tutorial requires notepad++ to be installed, that can be acquired from the link below.
+	https://notepad-plus-plus.org/downloads/
 
 .. error::
 	**This is an example error message**
