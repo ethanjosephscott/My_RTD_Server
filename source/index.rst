@@ -12,6 +12,7 @@ Welcome to test-project's documentation!
 
    page1
    page2
+   ibmiclgennote.rst
 
 Indices and tables
 ==================
