@@ -13,6 +13,7 @@ Welcome to test-project's documentation!
    page1
    page2
    ibmiclgennote
+   bioskeys
 
 Indices and tables
 ==================
