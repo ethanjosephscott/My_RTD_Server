@@ -1,0 +1,27 @@
+Manufacturer,Models/Series,BIOS Key,Boot Menu Key
+Dell,All Models,F2,F12
+HP,All Models,Esc or F10,F9
+Lenovo,ThinkPad Series,F1,F12
+Lenovo,IdeaPad/Legion,F2,F12
+ASUS,All Models,Del or F2,Esc
+Acer,All Models,F2,F12
+Toshiba,All Models,F2,F12
+Samsung,All Models,F2,Esc or F12
+Sony,VAIO,F2 or Assist,F11 or Esc
+MSI,All Models,Del,F11
+Gigabyte,All Models,Del,F12
+Apple,Macs,Command + Option + O + F,Option (Alt)
+Intel,NUC,F2,F10
+Razer,All Models,Del,F12
+Microsoft,Surface,Volume Up Button,Volume Down Button
+ASRock,All Models,F2 or Del,N/A
+COMPAQ,All Models,F10,N/A
+Xiaomi,All Models,Fn + F2,N/A
+Zotac,All Models,Del,N/A
+LG,All Models,F2,F10
+Huawei,All Models,F2,F12
+Fujitsu,All Models,F2,F12
+Panasonic,Toughbook Series,F2,F12
+Framework,All Models,F2,F12
+Getac,All Models,F2,F12
+Gateway,All Models,F1 or F2,F10
