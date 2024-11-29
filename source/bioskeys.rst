@@ -5,6 +5,6 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
 
 
 .. csv-table::
-   :header: "Manufacturer", "Model/Series", "BIOS Key(s)", "Boot Menu Key(s)"
    :file: bioskeys.csv
+   :header-rows: 1
    :widths: 20, 30, 20, 20
