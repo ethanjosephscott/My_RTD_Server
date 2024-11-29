@@ -1,7 +1,8 @@
-Template for the Read the Docs tutorial
+Source for my Read the Docs Server
 =======================================
 
 This is a slightly customized project
+You may make corrections or requests for changes for my website in the source folder once approved on github they will be pulled in automatically.
 
 Read the tutorial here:
 
