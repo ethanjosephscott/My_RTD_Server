@@ -16,13 +16,13 @@ Welcome to my personal documentation!
 .. toctree::
    :maxdepth: 2
    :caption: IBM I:
-   ibmiclgennote
+   /ibmiclgennote
 
 .. toctree::
    :maxdepth: 2
    :caption: Computer Repair: 
-   bioskeys
-   warrantylookup
+   /bioskeys
+   /warrantylookup
 
 .. note::
    The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server
