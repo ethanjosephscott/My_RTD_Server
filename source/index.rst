@@ -8,7 +8,6 @@ Welcome to my personal documentation!
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Random: 
 
    page1
@@ -16,14 +15,12 @@ Welcome to my personal documentation!
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: IBM I:
 
    ibmiclgennote
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Computer Repair:
 
    bioskeys
