@@ -8,11 +8,19 @@ Welcome to my personal documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Documentation: 
+   :caption: Random: 
 
    page1
    page2
+
+.. toctree::
+   :maxdepth: 2
+   :caption: IBM I:
    ibmiclgennote
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Computer Repair: 
    bioskeys
    warrantylookup
 
