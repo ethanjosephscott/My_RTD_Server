@@ -5,7 +5,11 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
 
 .. note:
    geeksforgeeks.org provides a very in depth article on this topic here https://www.geeksforgeeks.org/how-to-enter-bios-windows-10-11/
-   .. code-tab:: bash
+
+.. note:
+   Here is a good windows command to restart your computer and put it into the bios 95% of the time.
+
+.. code-tab:: bash
 
         shutdown /r /o /f /t 00
 
