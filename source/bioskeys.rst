@@ -18,3 +18,10 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
    :file: bioskeys.csv
    :header-rows: 1
    :widths: 20, 30, 20, 20
+
+.. figure:: /image/biosmonkey.mp4
+	:align: left
+	:alt: standard BIOS Mokey
+	:scale: 30%
+
+	You, before printing out this guide.
