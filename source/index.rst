@@ -16,6 +16,9 @@ Welcome to test-project's documentation!
    bioskeys
    warrantylookup
 
+.. note::
+   The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server/tree/main
+
 Indices and tables
 ==================
 
