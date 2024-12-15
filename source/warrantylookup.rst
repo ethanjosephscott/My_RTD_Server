@@ -5,6 +5,6 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
 
 
 .. csv-table::
-   :file: Manufacturer_Warranty_Lookup.csv
+   :file: 'Manufacturer_Warranty_Lookup.csv'
    :header-rows: 1
    :widths: 20, 30, 20, 20
