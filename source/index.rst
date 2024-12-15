@@ -29,6 +29,11 @@ Welcome to my personal documentation Server!
 .. note::
    The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server
 
+.. figure:: /image/siteqrcode.png
+	:align: left
+	:alt: Documentation QR Code
+	:scale: 100%
+
 Indices and tables
 ==================
 
