@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test-project's documentation!
+Welcome to my personal documentation!
 ========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Part one: 
+   :caption: Documentation: 
 
    page1
    page2
