@@ -34,6 +34,7 @@ Welcome to my personal documentation Server!
 	:alt: Documentation QR Code
 	:scale: 100%
 
+
 Indices and tables
 ==================
 
