@@ -3,25 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to my personal documentation!
+Welcome to my personal documentation Server!
 ========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Random: 
+   :caption: 🤷‍♂️Random: 
 
    page1
    page2
 
 .. toctree::
    :maxdepth: 2
-   :caption: IBM I:
+   :caption: 🧙‍♂️IBM I:
 
    ibmiclgennote
 
 .. toctree::
    :maxdepth: 2
-   :caption: Computer Repair:
+   :caption: 🪛Computer Repair:
 
    bioskeys
    warrantylookup
