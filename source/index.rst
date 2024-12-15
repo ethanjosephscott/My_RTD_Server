@@ -17,7 +17,7 @@ Welcome to test-project's documentation!
    warrantylookup
 
 .. note::
-   The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server/tree/main
+   The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server
 
 Indices and tables
 ==================
