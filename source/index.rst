@@ -14,6 +14,7 @@ Welcome to test-project's documentation!
    page2
    ibmiclgennote
    bioskeys
+   warrantylookup
 
 Indices and tables
 ==================
