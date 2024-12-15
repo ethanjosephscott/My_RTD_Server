@@ -19,8 +19,9 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
    :header-rows: 1
    :widths: 20, 30, 20, 20
 
-.. figure:: /image/biosmonkey.mp4
-	:align: left
+.. figure:: /image/biosmonkey.gif
+	:align: center
+	:alt: standard BIOS Monkey
 	:scale: 50%
 
 	You, before printing out this guide.
