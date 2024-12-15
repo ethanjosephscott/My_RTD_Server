@@ -22,6 +22,6 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
 .. figure:: /image/biosmonkey.gif
 	:align: center
 	:alt: standard BIOS Monkey
-	:scale: 50%
+	:scale: 100%
 
 	You, before printing out this guide.
