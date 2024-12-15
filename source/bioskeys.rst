@@ -21,7 +21,6 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
 
 .. figure:: /image/biosmonkey.mp4
 	:align: left
-	:alt: standard BIOS Mokey
-	:scale: 30%
+	:scale: 50%
 
 	You, before printing out this guide.
