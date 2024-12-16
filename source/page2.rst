@@ -50,4 +50,4 @@ https://cloud.ethanjosephscott.com/index.php/s/ntat6yyCrTqFa6m
 
 	.. code-tab:: bash
 
-		echo "another one"
+		echo "another one "
