@@ -12,3 +12,4 @@ Recently I had a chance to work on a multitude of laptops from Razer to off bran
    :file: ManufacturerWarrantyLookup.csv
    :header-rows: 1
    :widths: 20, 100
+
