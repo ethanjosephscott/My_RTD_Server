@@ -25,6 +25,7 @@ Welcome to my personal documentation Server!
 
    bioskeys
    warrantylookup
+   partsurls
 
 .. note::
    The Github for this website can be located at https://github.com/ethanjosephscott/My_RTD_Server
