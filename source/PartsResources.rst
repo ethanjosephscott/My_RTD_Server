@@ -1,4 +1,4 @@
-Computer Manufacturer Warranty Lookup
+Computer Manufacturer Part Resources
 ==============================================
 
 Recently I had a chance to work on a multitude of laptops from Razer to off brand knockoffs.  I got tired of looking up different parts websites across manufacturers, so here is a modern list.
